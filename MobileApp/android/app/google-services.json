@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "170300736185",
+    "firebase_url": "https://towns-11baf.firebaseio.com",
+    "project_id": "towns-11baf",
+    "storage_bucket": "towns-11baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170300736185:android:92767d2126823bc5",
+        "android_client_info": {
+          "package_name": "com.mytravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170300736185-l2b5hjjg3coeen60t3t0bu0jhtrpp300.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1UGeJsJ_9odhCEbKFlnEv7zOLow_wgP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
